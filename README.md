@@ -1,22 +1,28 @@
 # mergetest
 only for test merges
 
-### development change 1
-correct use of titles
 
-## HOTFIX 1!
-test of hotfix 1
+## HOTFIXES
 
-### feature1
-add feature1
+### HOTFIXES 1
+hotfix 1
 
-## NEW HOTFIX
+### HOTFIXES 2
 test new hotfix
 
 
-## development 2 v1
+## DEV CHANGES
+
+### DEV CHANGES 1
+correct use of titles
+
+### DEV CHANGES 2
 new test change from development changed
 
+## FEATURES
+
+### feature1
+add feature1
 
 ### feature 2
 a
@@ -35,4 +41,3 @@ four
 five
 six
 seven
-
