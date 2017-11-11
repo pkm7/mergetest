@@ -1,10 +1,14 @@
 # mergetest
 only for test merges
 
-development change 1
-HOTFIX 1!
-feature1
+### development change 1
+correct use of titles
 
+## HOTFIX 1!
+test of hotfix 1
+
+### feature1
+add feature1
 
 ## NEW HOTFIX
 test new hotfix
@@ -31,3 +35,4 @@ four
 five
 six
 seven
+
