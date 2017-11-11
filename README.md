@@ -11,3 +11,6 @@ feature1
 new test change from development
 
 ### feature 2
+a
+b
+c
